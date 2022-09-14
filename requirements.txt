@@ -1,0 +1,7 @@
+pandas
+librosa
+SoundFile
+numpy
+pyttsx3
+gTTS
+boto3
